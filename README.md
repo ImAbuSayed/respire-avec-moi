@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/respire-avec-moi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Respire Avec Moi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/respire-avec-moi/) |
+| **Get License** | [Secure Licensing Rights for Respire Avec Moi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/respire-avec-moi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, regarde-moi, la nuit nous appartient
+> Ton corps sur le beat, je te veux dans mes mains
+> Respire avec moi, sous les lumières de la ville
+> Just you and me, on rend l'instant indélébile
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
