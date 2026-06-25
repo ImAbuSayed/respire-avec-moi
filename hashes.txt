@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Respire Avec Moi
+
+This log tracks the cryptographic history and versioning for the song **Respire Avec Moi** (respire-avec-moi).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-25T12:40:01.756605 | `v1` | `b4c267d812fdebfb869e13be41ea4f46bb83db991f340da62732a69d4fc36d11` | `b7d9144fc79cc07ae966eb1d048d4024fbd4d1aecf488c94253422ce3aea906d` | `2026-06-25_respire-avec-moi-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
